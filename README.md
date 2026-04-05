@@ -86,7 +86,7 @@ The models were evaluated using:
 
 
 
-## 🛠Tools & Libraries
+## Tools & Libraries
 
 * Python
 * Pandas, NumPy
